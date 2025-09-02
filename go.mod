@@ -1,4 +1,4 @@
-module github.com/pavelkrolevets/gobcy/v2
+module github.com/pavelkrolevets/gobcy
 
 go 1.22
 
