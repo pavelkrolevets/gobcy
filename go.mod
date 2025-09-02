@@ -1,4 +1,4 @@
-module github.com/blockcypher/gobcy/v2
+module github.com/pavelkrolevets/gobcy/v2
 
 go 1.22
 
